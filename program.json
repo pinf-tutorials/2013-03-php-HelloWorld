@@ -1,0 +1,10 @@
+{
+	"christophdorn.com/tutorials/0.1": {
+		"date": "2013-03-20",
+		"topic": [
+			"PHP"
+		],
+		"title": "HelloWorld PHP Application",
+		"description": "A simple PHP application that displays `HelloWorld` on the command line and in the browser."
+	}
+}
